@@ -1,0 +1,7 @@
+.sticky-header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: #ffffff; /* 設定背景色，你可以根據需要修改 */
+  }
+  
